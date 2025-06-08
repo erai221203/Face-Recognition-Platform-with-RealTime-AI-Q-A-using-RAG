@@ -10,7 +10,7 @@ FaceIQ is a modern face recognition web application that uses webcam feed to aut
 
 ## Architecture Diagram
 
-![Architecture Diagram](./docs/architecture-diagram.png)
+![Architecture Diagram](./Architecture Design.png)
 
 > *Note:* The architecture diagram illustrates the interaction between the React frontend, Node.js backend server, Python face recognition service. 
 
