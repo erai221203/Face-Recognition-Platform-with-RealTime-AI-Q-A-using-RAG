@@ -18,7 +18,7 @@
 ## 📹 Demo Video
 
 🎥 **Watch the live demo:**  
-[![FaceIQ Demo](https://youtu.be/w4RSqlKz3pk)](https://kumaragurudtsteam-my.sharepoint.com/:v:/g/personal/eraianbu_22ad_kct_ac_in/EREczrtOpEtJt89w53IznCoBV29cTzJhAH3HAmtrI6TUng?e=IORKHF)
+[![FaceIQ Demo](https://youtu.be/w4RSqlKz3pk)](https://youtu.be/w4RSqlKz3pk)
 
 
 ---
