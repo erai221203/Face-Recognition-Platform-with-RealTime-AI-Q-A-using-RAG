@@ -18,7 +18,7 @@
 ## 📹 Demo Video
 
 Watch the live working demo:  
-[![FaceIQ Demo](https://kumaragurudtsteam-my.sharepoint.com/:v:/g/personal/eraianbu_22ad_kct_ac_in/EREczrtOpEtJt89w53IznCoBV29cTzJhAH3HAmtrI6TUng?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=IORKHF)
+[![FaceIQ Demo(https://kumaragurudtsteam-my.sharepoint.com/:v:/g/personal/eraianbu_22ad_kct_ac_in/EREczrtOpEtJt89w53IznCoBV29cTzJhAH3HAmtrI6TUng?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=IORKHF)]
 
 ---
 
