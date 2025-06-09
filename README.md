@@ -1,42 +1,89 @@
-# Face-Recognition-Platform-with-RealTime-AI-Q-A-using-RAG
+# FaceIQ - Face Recognition Platform with Real-Time AI Q&A using RAG
 
+## 🚀 Overview
 
-# FaceIQ - Automatic Face Recognition Web App
-
-## Overview
-FaceIQ is a modern face recognition web application that uses webcam feed to automatically detect and recognize faces without requiring user interaction like button clicks. The app displays bounding boxes and names for recognized faces in real-time.
+**FaceIQ** is a cutting-edge face recognition web application that uses a live webcam feed to automatically detect and identify faces in real-time. It draws bounding boxes and labels with names on detected faces without any manual button clicks or interaction. The platform also supports integration with a real-time AI Q&A system using Retrieval-Augmented Generation (RAG).
 
 ---
 
-## Architecture Diagram
+## 🧠 Architecture Diagram
 
 ![Architecture Diagram](./Architecture_Design.png)
 
-> *Note:* The architecture diagram illustrates the interaction between the React frontend, Node.js backend server, Python face recognition service. 
+> **Note:** The above diagram illustrates the overall architecture of FaceIQ, showcasing interactions between the React frontend (camera UI), Node.js backend (API/WebSocket server), and Python-based face recognition engine (FastAPI). The face data is stored locally using formats like Pickle or JSON.
 
 ---
 
-## Demo Video
+## 📹 Demo Video
 
-Watch the working demo here:  
+Watch the live working demo:  
 [![FaceIQ Demo](https://img.youtube.com/vi/your-video-id/0.jpg)](https://loom.com/share/your-loom-video-link)
 
-*Replace `your-video-id` and `your-loom-video-link` with your actual video identifiers.*
+> Replace `your-video-id` and `your-loom-video-link` with your actual YouTube or Loom video details.
 
 ---
 
-## How to Run
+## 🛠️ How to Run Locally
 
-1. Clone the repo  
-2. Install dependencies (npm install at the client and also server) 
-3. Start backend servet (node index.js)
-4. Start frontend server  ($env:NODE_OPTIONS="--openssl-legacy-provider">> npm start)
-5. Open the app in your browser at `http://localhost:3000`  
-6. Allow webcam access when prompted  
+Follow these steps to set up the project on your machine:
+
+### 🔁 Clone the Repository
+```bash
+git clone https://github.com/your-username/Face-Recognition-Platform-with-RealTime-AI-Q-A-using-RAG.git
+cd Face-Recognition-Platform-with-RealTime-AI-Q-A-using-RAG
+```
+
+### 📦 Install Frontend & Backend Dependencies
+```bash
+# Frontend (React)
+cd client
+npm install
+
+# Backend (Node.js)
+cd ../server
+npm install
+```
+
+### 🧪 Set Up Python Environment for Face Recognition
+
+1. Create a virtual environment (Python 3.10.13 recommended):
+   ```bash
+   python -m venv venv
+   ```
+2. Activate the virtual environment:
+   - **Windows CMD**: `venv\Scripts\activate`
+   - **PowerShell**: `.env\Scripts\Activate.ps1`
+   - **Git Bash/Linux/Mac**: `source venv/Scripts/activate`
+3. Install required packages:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+> ⚠️ **Note**: `dlib` may require Python 3.10.13 or older for compatibility.
 
 ---
 
-## Contact
+### ▶️ Start the App
 
-For questions or support, contact:[https://eraianbu.pages.dev] [eraianbu873@gmail.com] 
+1. Start the backend server:
+   ```bash
+   node index.js
+   ```
 
+2. Start the frontend server:
+   ```bash
+   cd client
+   $env:NODE_OPTIONS="--openssl-legacy-provider"
+   npm start
+   ```
+
+3. Open your browser and navigate to `http://localhost:3000`
+4. Allow webcam access when prompted.
+
+---
+
+## 📬 Contact
+
+Have questions or need support?  
+📧 [eraianbu873@gmail.com](mailto:eraianbu873@gmail.com)  
+🌐 [https://eraianbu.pages.dev](https://eraianbu.pages.dev)
