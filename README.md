@@ -87,3 +87,5 @@ npm install
 Have questions or need support?  
 📧 [eraianbu873@gmail.com](mailto:eraianbu873@gmail.com)  
 🌐 [https://eraianbu.pages.dev](https://eraianbu.pages.dev)
+
+This project is a part of a hackathon run by https://katomaran.com 
