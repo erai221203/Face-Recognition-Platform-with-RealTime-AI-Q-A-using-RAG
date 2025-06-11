@@ -1,5 +1,5 @@
 # Face Recognition Platform with Real-Time AI Q&A using RAG
-# FaceIQ - Automatic Face Recognition Web App
+# FaceIQ - Face Recognition Web App with Chatbot
 
 ## 🚀 Overview
 
