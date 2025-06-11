@@ -3,8 +3,7 @@
 
 ## 🚀 Overview
 
-**FaceIQ** is a cutting-edge face recognition web application that uses a live webcam feed to automatically detect and identify faces in real-time. It draws bounding boxes and labels with names on detected faces without any manual button clicks or interaction. The platform also supports integration with a real-time AI Q&A system using Retrieval-Augmented Generation (RAG).
-
+**FaceIQ** is an advanced face recognition web application that utilizes a live webcam feed to detect and identify faces in real-time. It draws bounding boxes and displays names on recognized faces as they appear in the frame. While the system processes video continuously, it requires initial user configuration or interaction to enable detection, making it semi-automated rather than fully automatic. The platform also features integration with a real-time AI Q&A system powered by Retrieval-Augmented Generation (RAG), allowing users to interact with the system for intelligent responses based on retrieved data.
 ---
 
 ## 🧠 Architecture Diagram
